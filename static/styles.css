@@ -1,0 +1,36 @@
+
+.jb-wrap {
+	width: 100%;
+	margin: 10px auto;
+	position: relative;
+}
+.jb-wrap img {
+	width: 100%;
+	vertical-align: middle;
+}
+.jb-text1 {
+	padding: 5px 10px;
+	text-align: left;
+	position: absolute;
+    font-size: xxx-large;
+    font-weight: bold;
+	top: 30%;
+	left: 25%;
+	transform: translate( -50%, -50% );
+}
+
+
+.jb-text2 {
+	padding: 5px 10px;
+	text-align: center;
+	position: absolute;
+    font-size: x-large;
+	top: 60%;
+	left: 34%;
+	transform: translate( -50%, -50% );
+}
+
+.contact_div_1{
+    width= 500px
+    height = 500px
+}
